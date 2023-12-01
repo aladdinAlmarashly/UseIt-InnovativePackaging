@@ -24,7 +24,7 @@ Explore our prototype in action here: [Demo Project Link](https://aladdinalmaras
 Also you can find the demo in AtJed: [Demo Project Link](https://useit.atjed.com/)
 
 ## Presentation
-For a detailed overview of our project, view our presentation: [Presentation Link](https://aladdinalmarashly.github.io/UseIt-InnovativePackaging/UseIt-InnovativePackaging presentation.pdf)
+For a detailed overview of our project, view our presentation: [Presentation Link](https://aladdinalmarashly.github.io/UseIt-InnovativePackaging/UseIt-InnovativePackaging%20presentation.pdf)
 
 ## Contributing
 We're open to contributions! If you're interested in helping us develop this project further, please connect with us.
